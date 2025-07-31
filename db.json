@@ -65,17 +65,6 @@
       "time": "11:00",
       "petsAllowed": false,
       "organizer": "Brody Kill"
-    },
-    {
-      "id": 2222,
-      "category": "food",
-      "title": "Homeless feeding",
-      "description": "Help feed the homeless.",
-      "location": "Here",
-      "date": "now",
-      "time": "11:00",
-      "petsAllowed": true,
-      "organizer": "plen"
     }
   ]
 }
